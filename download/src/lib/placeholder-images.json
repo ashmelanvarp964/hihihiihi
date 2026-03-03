@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "High-tech data center with blue glowing servers",
+      "imageUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkYXRhJTIwY2VudGVyfGVufDB8fHx8MTc3MjQ1NTgxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data center"
+    },
+    {
+      "id": "minecraft-server",
+      "description": "Minecraft blocky landscape with a castle",
+      "imageUrl": "https://images.unsplash.com/photo-1759663176932-04c90aeec2b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtaW5lY3JhZnQlMjBnYW1lfGVufDB8fHx8MTc3MjUzNTg3OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minecraft game"
+    },
+    {
+      "id": "vps-server",
+      "description": "Abstract cloud computing network visualization",
+      "imageUrl": "https://images.unsplash.com/photo-1667984550707-bf0beecaa082?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjbG91ZCUyMHNlcnZlcnxlbnwwfHx8fDE3NzI1MzU4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cloud server"
+    },
+    {
+      "id": "astracloud-logo",
+      "description": "AstraCloud Rocket Launch Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&q=80&w=200&h=200",
+      "imageHint": "rocket launch"
+    }
+  ]
+}
